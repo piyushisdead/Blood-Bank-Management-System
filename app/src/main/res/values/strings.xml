@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MAD_#1</string>
+
+    <!-- Other strings -->
+
+    <!-- Blood Types Array -->
+    <string-array name="blood_types">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+
+    <string name="contact_hint">Contact</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="logo_description">Blood Bank Logo</string>
+
+    <!-- Profile Image Description -->
+    <string name="profile_image_desc">Profile Picture</string>
+    <string name="title_activity_nearby_blood_banks">NearbyBloodBanksActivity</string>
+</resources>

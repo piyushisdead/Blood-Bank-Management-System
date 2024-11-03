@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDarkMode">#121212</color>
+    <color name="colorPrimaryVariantDarkMode">#3700B3</color>
+    <color name="colorAccentDarkMode">#BB86FC</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!-- Basic colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Additional theme colors if required -->
+    <color name="colorSecondary">#FFBB86FC</color>
+
+</resources>
+

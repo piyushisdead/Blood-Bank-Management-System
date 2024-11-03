@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.MAD_1" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary branding colors -->
+        <item name="colorPrimary">@color/colorPrimaryDarkMode</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariantDarkMode</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary branding colors -->
+        <item name="colorSecondary">@color/colorAccentDarkMode</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Status bar and navigation bar -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/colorPrimaryVariantDarkMode</item>
+        <item name="android:navigationBarColor">@color/colorPrimaryDarkMode</item>
+
+        <!-- Default text color -->
+        <item name="android:textColorPrimary">@color/white</item>
+    </style>
+</resources>

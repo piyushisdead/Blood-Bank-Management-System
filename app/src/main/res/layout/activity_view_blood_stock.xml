@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center"
+    android:background="@drawable/background_image">
+
+    <!-- Title for the Blood Stock Page -->
+    <TextView
+        android:id="@+id/tvBloodStock"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Available Blood Stock"
+        android:textSize="24sp"
+        android:textColor="@android:color/black"
+        android:padding="8dp"
+        android:gravity="center"
+        android:textStyle="bold" />
+
+    <!-- RecyclerView to display the list of blood stock items -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingTop="16dp"
+        android:clipToPadding="false"
+        android:paddingBottom="8dp" />
+</LinearLayout>

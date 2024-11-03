@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnRegister" type="id" />
+    <item name="btnGoToRegister" type="id" />
+    <item name="spinnerBloodType" type="id" />
+    <item name="btnDonateBlood" type="id" />
+    <item name="tvBloodType" type="id" />
+</resources>
