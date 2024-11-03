@@ -14,6 +14,9 @@ Nearby Blood Bank Branches: Using stored branch data, users can locate nearby bl
 
 Technical Details
 Database Management: The app uses SQLite for offline data storage, managing multiple tables including users, blood stock, donations, requests, and branch locations.
+
 Stock Update and Validation: Real-time validation and updating of blood stock levels ensure that inventory reflects actual availability.
+
 RecyclerView for Displaying Data: Blood stock information is displayed in a RecyclerView for a clean, scrollable view.
+
 Google Maps Integration (optional): Integration-ready for Google Maps to display branch locations based on GPS coordinates.
